@@ -44,15 +44,9 @@ npm run dev
 
 
 Open `http://localhost:5173/` in your browser to view the app.
+
+## Screenshots
+
 ![bank website](https://github.com/DEEPVYAS03/Bank-Website/assets/113181349/bd9b810c-5946-4a19-b988-6be819a14976)
 
 
-
-
-
-This project is licensed under the MIT License.
-
----
-
-Happy coding! If you encounter any issues, feel free to open an issue.
-```
